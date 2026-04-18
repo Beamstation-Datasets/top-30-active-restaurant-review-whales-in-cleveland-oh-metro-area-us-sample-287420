@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9792c652-6ddb-4515-b056-37b529dfb3c9",
+  "export_job_id": "b2d57422-bb2d-40ad-9bae-f741f4d8597c",
   "id_short": 287420,
-  "published_at": "2026-04-11T19:16:39Z",
+  "published_at": "2026-04-18T07:46:51Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-cleveland-oh-metro-area-us-sample-287420",
   "sample_asset_name": "beamstation_287420_restaurants-us-clevelandoh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/287420/beamstation_287420_restaurants-us-clevelandoh_SAMPLE_DIST.csv",
-  "sample_records": 10,
-  "sample_sha256": "240ecebb247d98d6d08f9df32d320d4c225afcca64aedec47ec4ed157baccabd",
-  "sample_size_bytes": 55651,
-  "total_records": 653
+  "sample_records": 88,
+  "sample_sha256": "411706aa17b6c02fecf7e8369605148cf16ec07031233a2e0efe0b6b28632e64",
+  "sample_size_bytes": 361385,
+  "total_records": 889
 }
